@@ -53,7 +53,7 @@ Step 3 - Find this sum for each of the 50 puzzles
 
 ### Requirements
 
-Please read this document carefully and follow the instructions above and the language specific requirements below.
+Please read this document carefully and follow the instructions above and the language specific requirements below.  DO NOT use brute force algorithm and import any existing algorithm library!
 
 You should provide enough instructions for the reviewer to build and run your works.
 
